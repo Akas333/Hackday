@@ -1,0 +1,19 @@
+# Local-only
+.upstream-git/
+.claude/
+.DS_Store
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node
+node_modules/
+dist/

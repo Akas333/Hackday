@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+.env
+tmp/
+media/
+manim-tts-gemma.ipynb
+derivative_as_slope_quadratic_final_voice_padded - Copy.mp4
+dueline_mvp_10_manim_templates/media/
+dueline_mvp_10_manim_templates/renders/
+dueline_mvp_10_manim_templates/tmp_render/
+dueline_mvp_10_manim_templates/**/__pycache__/
+bank_soal/scripts/
+app/modules/question_bank/seed.py
